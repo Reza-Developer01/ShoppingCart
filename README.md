@@ -6,7 +6,7 @@ A shopping cart project using JavaScript.
 ![17](https://github.com/Reza-Developer01/ShoppingCart/blob/main/17.png)
 ![18](https://github.com/Reza-Developer01/ShoppingCart/blob/main/18.png)
 
-- ✨ [Demo Project](https://reza-developer01.github.io/SortByCategory/)
+- ✨ [Demo Project](https://reza-developer01.github.io/ShoppingCart/)
 
 - 👨‍💻 Developed by Reza Rashvand
 
