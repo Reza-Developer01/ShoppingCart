@@ -17,3 +17,13 @@ A shopping cart project using JavaScript.
 - 🔥 Role - Frontend
 
 - 🤝 How to reach me : with my [instagram](https://www.instagram.com/amirreza_rashvand_developer)
+
+- ## Features
+- Adding a product to the shopping cart
+- Saving a product to the browser's local storage
+- Removing a product from the shopping cart
+- Deleting a product from local storage
+- Displaying the number of products in the shopping cart
+- Displaying the quantity of a product if it appears multiple times in the shopping cart
+- Reading product information from JavaScript
+- Reading category information for the menu from JavaScript
