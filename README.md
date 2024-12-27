@@ -18,6 +18,9 @@ A shopping cart project using JavaScript.
 
 - 🤝 How to reach me : with my [instagram](https://www.instagram.com/amirreza_rashvand_developer)
 
+  ## Important
+  This website is not responsive. Please don't check it on mobile.
+
   ## Features
 - Adding a product to the shopping cart
 - Saving a product to the browser's local storage
